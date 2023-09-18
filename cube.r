@@ -1,3 +1,3 @@
-cube <- function(x) {
- x^2
+cube <- function(x,y) {
+ c(x,y)
 }
